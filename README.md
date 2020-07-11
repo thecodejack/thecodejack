@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### I am a 
+- **Professional Frontend Engineer** started back in 2005 with Java Applets/Swings and VB.NET now doing web and mobile app development.
+- **Polygot developer** covering Java, Python, SQL skills
+- **DevOps Enthusiast**
+- **Architect** in mind but programmer behaviour.
+- **Interviews backend, frontend engineers** for my employer.
+- **JACK of all trades, master of ONE** => Not None 😄
+
 <!--
 **thecodejack/thecodejack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
