@@ -5,7 +5,6 @@
 - **Polygot developer** covering Java, Python, SQL skills
 - **DevOps Enthusiast**
 - **Architect** in mind, programmer in heart
-- **Interviews backend, frontend engineers** for my employer
 - **JACK of all trades, master of ONE** => Not None 😄
 
 <!--
